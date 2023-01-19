@@ -42,7 +42,7 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![](./cvt.png)
+![](cvt2.png)
 
 ## Result: 
 Thus circulate the values of n variables executed successfully
